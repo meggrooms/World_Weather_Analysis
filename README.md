@@ -18,7 +18,9 @@ I began by using NumPy to generate a list of 2,000 random sets of global coordin
 <BR><BR>
 
 ### Planning the trip
-Our client prefers their destination to range from 75-85°F and wants to be sure to get some beach time. This information helped me narrow the destinations further and ultimately the clients decided to visit Brazil. They will be renting a vehicle in the city of Pilar, visiting 3 cities, then returning to Pilar for their journey home. After browsing the heat map, they decided on which cities to visit. 
+Our client prefers temperatures that go between 75-85°F. They want to see the sights but also while being sure to get some beach time in. This information helped me narrow the destinations further and ultimately the clients decided to visit Brazil. They will be renting a vehicle in the city of Pilar, visiting 3 cities, then returning to Pilar for their journey home. After browsing the heat map, they decided on which cities to visit. <BR>
+<img src="https://github.com/meggrooms/World_Weather_Analysis/blob/main/Figures/Heat_Map.png">  
+  
 <BR>
 <img src="https://github.com/meggrooms/World_Weather_Analysis/blob/main/Figures/DF-all_four.png">
   <BR><BR>
