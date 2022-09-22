@@ -18,16 +18,18 @@ I began by using NumPy to generate a list of 2,000 random sets of global coordin
 <BR><BR>
 
 ### Planning the trip
-Our client prefers their destination to range from 75-85°F. This information helped me narrow the destinations further. Ultimately the clients decided to visit Brazil. They will be renting a vehicle in the city of Pilar, visiting 3 cities, then returning to Pilar for their journey home. The destination cities are:
+Our client prefers their destination to range from 75-85°F and wants to be sure to get some beach time. This information helped me narrow the destinations further and ultimately the clients decided to visit Brazil. They will be renting a vehicle in the city of Pilar, visiting 3 cities, then returning to Pilar for their journey home. After browsing the heat map, they decided on which cities to visit. 
 <BR>
 <img src="https://github.com/meggrooms/World_Weather_Analysis/blob/main/Figures/DF-all_four.png">
   <BR><BR>
   
 ### The itinerary
-The journey begins in Pilar, Brazil. Our clients will travel to Tamandare, Maragogi, & Maceio before they return to Pilar.
+Once the client decided on their destination I went to work planning their epic Brazilian road trip. The journey begins in Pilar, Brazil. Our clients will travel to Tamandare, Maragogi, & Maceio before they return to Pilar.
 <br>
 <img src="https://github.com/meggrooms/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png">
     <BR><BR
             
-The interactive map I provided the clients was well received, providing exactly the information needed
+The interactive map I provided the clients was well received, providing exactly the information needed to plan their trip.<BR>
+<img src="https://github.com/meggrooms/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png">
+      <BR><BR>
 
