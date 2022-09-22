@@ -29,7 +29,7 @@ Our client prefers temperatures that range between 75-85°F. They want to see th
 Once the client decided on their destination I went to work planning their epic Brazilian road trip. The journey begins in Pilar, Brazil. Our clients will travel to Tamandare, Maragogi, & Maceio before they return to Pilar.
 <br>
 <img src="https://github.com/meggrooms/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png">
-    <BR><BR
+    <BR><BR>
             
 The interactive map I provided the clients was well received, providing exactly the information needed to plan their trip.<BR>
 <img src="https://github.com/meggrooms/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png">
