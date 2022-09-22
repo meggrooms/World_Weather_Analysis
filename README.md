@@ -1,7 +1,7 @@
 # World Weather Analysis
 ### Plan your next big adventure
 -----
-PlanMyTrip is an industry leader in travel destination planning. PlanMyTrip wants to develop real-time suggestions to help clients find their ideal vacation destination and lodging. 
+PlanMyTrip is an industry leader in travel destination planning. PlanMyTrip wants to develop real-time suggestions to help clients find their ideal vacation destination and lodging, helping them plan their dream vacation.
 <BR>
 <BR>
 ### Resources
@@ -14,7 +14,7 @@ PlanMyTrip is an industry leader in travel destination planning. PlanMyTrip want
   <BR>
   
 ### Methods
-I began by using NumPy to generate a list of 2,000 random sets of global coordinates, then I used citipy to determine the nearest city to each coordinate. Of those 2,000 selections, 677 were returned as possible destinations. I called on the OpenWeatherMap API to retrieve the weather patterns and current conditions for each city.
+I began by using NumPy to generate a list of 2,000 random sets of global coordinates, I then used citipy to determine the nearest city to each coordinate. Of those 2,000 selections, 677 were returned as viable vacation options. I called on the OpenWeatherMap API to retrieve the weather patterns and current conditions for each city.
 <BR><BR>
 
 ### Planning the trip
